@@ -86,9 +86,11 @@ X And Y Values:
 ![5](https://github.com/user-attachments/assets/2cd53514-d3f4-4b07-b0c1-84e131272824)
 
 Accuracy:
+
 ![7](https://github.com/user-attachments/assets/df86d571-7d12-4bcc-9e97-b87c0b4fea79)
 
 Classification:
+
 ![9](https://github.com/user-attachments/assets/b5649467-a96d-4faf-9e6e-00ddccf4b62d)
 
 Prediction:
